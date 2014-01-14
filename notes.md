@@ -116,3 +116,7 @@ gulp.task('default', function() {
 可以指定同时运行多个任务，单个任务之间使用空格分割即可。
 
 ![use gulp](screen-short.png)
+
+参考资料：
+
+https://github.com/basecss/gulp-tutorial/wiki
