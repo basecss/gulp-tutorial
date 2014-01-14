@@ -1,0 +1,11 @@
+#boxB {
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	width: 500px;
+	height: 300px;
+	border: 10px solid rgba(0,0,0,0.3);
+	margin-left: -260px;
+	margin-top: -160px;
+	background: #fff;
+}
